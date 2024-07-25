@@ -37,13 +37,11 @@ This project provides a graphical user interface (GUI) application to compress H
 
 1. Run the application:
 
-    ```bash
-    python your_script.py
-    ```
+2. If not run open with python.
 
-2. Enter your HTML content into the text area labeled "Enter your HTML content."
+3. Enter your HTML content into the text area labeled "Enter your HTML content."
 
-3. Click the "Compress and Convert" button.
+4. Click the "Compress and Convert" button.
 
-4. View the output in the "Output" section. The hexadecimal byte array and the C-style PROGMEM array will be displayed.
+5. View the output in the "Output" section. The hexadecimal byte array and the C-style PROGMEM array will be displayed.
 
